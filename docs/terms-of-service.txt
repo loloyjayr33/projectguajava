@@ -1,0 +1,85 @@
+📜 Terms of Service
+Effective Date: April 8, 2025
+Last Updated: April 8, 2025
+
+Welcome to ProjectGuajava — a community-based payroll management system designed to support small organizations in managing employee salaries, deductions, and contributions.
+
+By accessing or using our system, you agree to the following Terms of Service. If you do not agree, please refrain from using the service.
+
+1. Definitions
+"We", "Us", "Our" – refers to the service provider or operator of ProjectGuajava.
+
+"You", "User" – refers to any individual or entity using the system, including Admins and Employees.
+
+"Service" – refers to the ProjectGuajava payroll management platform.
+
+"Personal Data" – any information that identifies or can be used to identify an individual.
+
+2. User Obligations
+Users must provide accurate and lawful data.
+
+Admin users are responsible for obtaining necessary consents from employees whose data is entered into the system.
+
+Users must not use the service for any illegal, unauthorized, or unethical activity.
+
+3. Data Collection and Use
+We collect and process the following personal data for payroll-related purposes:
+
+Employee name, contact information, job details, salary info
+
+Payroll history, deductions, and contributions
+
+Payment status and records
+
+This data is used strictly for the operation of the ProjectGuajava payroll system, report generation, and legal compliance.
+
+4. Data Protection and Privacy
+ProjectGuajava complies with the General Data Protection Regulation (GDPR) and the Data Privacy Act of 2012 (RA 10173):
+
+Lawful Processing: We process personal data only with lawful basis — consent, contractual necessity, or legal obligation.
+
+Data Minimization: We only collect data necessary for payroll operations.
+
+Access and Control: Admins and Employees can view, correct, or request deletion of their data as allowed by law.
+
+Security: We implement appropriate technical and organizational safeguards to protect your data from unauthorized access, alteration, or destruction.
+
+5. Data Sharing and Retention
+ProjectGuajava does not sell or share personal data with third parties without consent, unless legally required.
+
+Personal data is retained only for as long as necessary to fulfill payroll obligations or comply with laws.
+
+Upon termination of service, data may be deleted or returned upon written request.
+
+6. User Rights (under GDPR and Data Privacy Act)
+You have the right to:
+
+Be informed about how your data is collected and used
+
+Access and rectify your personal data
+
+Object to or restrict certain types of processing
+
+Request deletion of your data (subject to legal limitations)
+
+File a complaint with the relevant Data Protection Authority
+
+7. Limitation of Liability
+ProjectGuajava provides the Service “as is”. We are not liable for:
+
+Errors or losses arising from inaccurate data input by users
+
+Indirect damages such as loss of income, reputation, or business
+
+Unauthorized access resulting from user negligence (e.g., password sharing)
+
+8. Changes to Terms
+We reserve the right to update these Terms. Users will be notified of material changes, and continued use of the Service constitutes acceptance of the new Terms.
+
+9. Governing Law
+These Terms are governed by the laws of the Republic of the Philippines, including the Data Privacy Act of 2012, and where applicable, the General Data Protection Regulation (GDPR) of the European Union.
+
+10. Contact
+For any questions, requests, or complaints regarding these Terms or your personal data, please contact us at:
+📧 libardoluisito123@gmail.com
+📍 Visayas State University
