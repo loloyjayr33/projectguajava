@@ -23,7 +23,7 @@ link: [
 {rel: 'stylesheet', href: '/reset.css'},
 {rel: 'stylesheet', href: '/custom.css'} ,
 {rel: 'preconnect', href: 'https://fonts.googleapis.com'},
-{rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: ''}
+{rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: ''},
 {rel: 'stylesheet', href: 'https://fonts.google.com/share?selection.family=Bungee+Spice|Roboto+Condensed:ital,wght@0,100..900;1,100..900'}
 ]
 });
