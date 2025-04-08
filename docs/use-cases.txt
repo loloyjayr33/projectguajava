@@ -1,0 +1,79 @@
+✅ MVP Use Cases
+1. User Authentication and Role Management
+UC1.1: Register Community Admin
+
+Description: Allow the first admin to create an account and set up their community profile.
+
+UC1.2: Login/Logout
+
+Description: Allow users to securely log in and out.
+
+UC1.3: Role-based Access Control
+
+Description: Ensure only admins can manage payroll; employees can view their own data.
+
+2. Employee Management
+UC2.1: Add New Employee
+
+Description: Admin adds basic info: name, contact, job title, salary, joining date.
+
+UC2.2: Edit/Delete Employee
+
+Description: Admin can update or remove an employee profile.
+
+UC2.3: View Employee List
+
+Description: Admin views all employees in the system.
+
+3. Payroll Processing
+UC3.1: Create Payroll Period
+
+Description: Admin defines a payroll cycle (e.g., monthly).
+
+UC3.2: Calculate Salary
+
+Description: System auto-calculates salary based on salary rate, working days, deductions, and bonuses.
+
+UC3.3: Generate Payslip
+
+Description: System generates a basic downloadable/printable payslip for each employee.
+
+UC3.4: Record Payment
+
+Description: Admin marks salary as paid, including payment method and date.
+
+4. Deductions and Contributions
+UC4.1: Add Deductions (e.g., absence, loans)
+
+Description: Admin adds deductions per employee or per payroll cycle.
+
+UC4.2: Add Contributions (e.g., social security, cooperative fund)
+
+Description: Admin sets fixed or percentage-based contributions for employees.
+
+5. Employee Self-Service
+UC5.1: View Own Profile
+
+Description: Employees can view their personal details and job info.
+
+UC5.2: View Payslips
+
+Description: Employees can view/download their past payslips.
+
+6. Reports and Summary
+UC6.1: Payroll Summary Report
+
+Description: Admin can view/download a summary report of total payroll expenses for a cycle.
+
+UC6.2: Individual Payment History
+
+Description: Admin can view an employee’s payment history.
+
+7. Settings and Configuration
+UC7.1: Configure Salary Structure
+
+Description: Admin sets base salary, allowances, deductions rules.
+
+UC7.2: Community Profile Settings
+
+Description: Update community name, address, contact info for payslips and reports.
