@@ -1,0 +1,96 @@
+🔒 Privacy Policy
+Effective Date: April 8, 2025
+Last Updated: April 8, 2025
+
+This Privacy Policy describes how ProjectGuajava ("we", "our", "us") collects, uses, and protects personal data in connection with our community-based payroll management system.
+
+We are committed to safeguarding the privacy of our users in compliance with the General Data Protection Regulation (GDPR) and the Data Privacy Act of 2012 (RA 10173).
+
+1. 📌 Scope
+This policy applies to all users of ProjectGuajava, including community administrators and employees whose data is processed within the system.
+
+2. 🧾 Personal Data We Collect
+We collect the following types of personal data:
+
+Employee Information: Full name, contact number, email, address, job title, salary, employment start date
+
+Payroll Data: Monthly salary, deductions, contributions, bonuses, payslip history, payment status
+
+Account Data: Admin usernames, hashed passwords, community or organization info
+
+3. 🛠 How We Use Your Data
+We process personal data for the following lawful purposes:
+
+To manage and generate payroll records
+
+To issue payslips and document salary payments
+
+To calculate contributions and deductions
+
+To allow employees to access their own payroll history
+
+To comply with legal and financial reporting obligations
+
+4. 🧷 Lawful Basis for Processing
+Your data is processed based on:
+
+Consent (where required)
+
+Contractual necessity (e.g., employment agreements)
+
+Legal obligations (e.g., labor and tax laws)
+
+5. 🛡 Data Security
+We implement industry-standard security measures to protect your data, including:
+
+Secure authentication and encrypted passwords
+
+Role-based access controls (only admins can manage data)
+
+Data backup and audit logs
+
+6. ⏳ Data Retention
+We retain personal data only as long as necessary to:
+
+Fulfill payroll-related and legal obligations
+
+Provide access to historical payroll records
+
+Comply with tax, audit, or employment laws
+
+Once no longer needed, data is securely deleted or anonymized.
+
+7. 🔁 Data Sharing
+We do not sell or rent personal data. Data is only shared:
+
+Within the organization (e.g., between Admins and Employees)
+
+With government authorities when legally required
+
+With service providers under strict confidentiality (if applicable)
+
+8. 🔍 Your Rights
+Under the GDPR and Data Privacy Act, you have the right to:
+
+Be informed about how your data is used
+
+Access your personal data
+
+Correct or update inaccurate data
+
+Request deletion, restriction, or object to processing
+
+Lodge a complaint with the appropriate data protection authority
+
+To exercise these rights, contact us using the information below.
+
+9. 🚨 Breach Notification
+In the event of a data breach that poses a risk to your rights and freedoms, we will notify affected individuals and regulators as required by law.
+
+10. 📝 Changes to This Policy
+We may update this Privacy Policy to reflect changes in the law or our practices. We will notify users of any significant changes.
+
+11. 📬 Contact Us
+If you have questions or requests regarding your data or this policy, please contact:
+📧 libardoluisito123@gmail.com
+📍 Visayas State University
