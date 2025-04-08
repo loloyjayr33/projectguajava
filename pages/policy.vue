@@ -3,8 +3,8 @@
 <client-only>
 <NavBar />
 <div id="gjMain" class="gj-main"></div>
-<!-- <Cookies /> -->
-<!-- <Copyright /> -->
+<Cookies />
+<Copyright />
 </client-only>
 </template>
 <script setup lang="ts">
