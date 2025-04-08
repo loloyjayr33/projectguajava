@@ -8,5 +8,66 @@ body {
     background-color: #f2f4f7;
 }
 /* navigation bar */
+.bh-navbar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 50px;
+    background-color: #f0f0f0;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+    z-index: 7000;
+    }
+.gj-nav-left {
+    margin-left: 5%;
+    display: inline-flex;
+    width: fit-content;
+    float: left;
+    }
+.gj-nav-home {
+    margin: 5px;
+    padding: 10px 8px;
+    display: flex;
+    align-items: center;
+    font-family: "Font Name #1", Arial, serif;
+    font-size: 1.2em;
+    text-decoration: none;
+    border-radius: 8px;
+    color: #328E6E;
+    }
+.gj-nav-home:hover {
+    background-color: rgba(0, 0, 0, 0.05);
+    }
+.gj-nav-logo {
+    width: 20px;
+    height: 20px;
+    margin-right: 5px;
+    }
+.gj-nav-right {
+    margin-right: 5%;
+    display: inline-flex;
+    width: fit-content;
+    float: right;
+}
+.gj-nav-right ul {
+    list-style: none;
+}
+.gj-nav-right ul li {
+    display: inline;
+}
+.gj-nav-link {
+    margin: 6px;
+    padding: 10px 8px;
+    display: inline-block;
+    font-size: 0.9em;
+    text-decoration: none;
+    border-radius: 8px;
+    color: #67AE6E;
+}
+.gj-nav-link:hover {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
 /* main contents */
 /* copyright */

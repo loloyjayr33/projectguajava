@@ -1,7 +1,7 @@
 <script lang="ts"></script>
 <template>
 <client-only>
-<!-- <NavBar /> -->
+<NavBar />
 <div id="gjMain" class="gj-main"></div>
 <!-- <Cookies /> -->
 <!-- <Copyright /> -->
@@ -19,12 +19,12 @@ viewport: "width=device-width, initial-scale=1.0"
 });
 useHead({
 link: [
-{rel: 'icon', type: 'image/png', href: '/logo.png'},
-{rel: 'stylesheet', href: '/reset.css'},
-{rel: 'stylesheet', href: '/custom.css'} ,
-{rel: 'preconnect', href: 'https://fonts.googleapis.com'},
-{rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: ''}
-{rel: 'stylesheet', href: 'https://fonts.google.com/share?selection.family=Bungee+Spice|Roboto+Condensed:ital,wght@0,100..900;1,100..900'}
+  {rel: 'icon', type: 'image/png', href: '/logo.png'},
+  {rel: 'stylesheet', href: '/reset.css'},
+  {rel: 'stylesheet', href: '/custom.css'} ,
+  {rel: 'preconnect', href: 'https://fonts.googleapis.com'},
+  {rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: ''},
+  {rel: 'stylesheet', href: 'https://fonts.google.com/share?selection.family=Bungee+Spice|Roboto+Condensed:ital,wght@0,100..900;1,100..900'}
 ]
 });
 </script>

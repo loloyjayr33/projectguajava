@@ -1,7 +1,7 @@
 <script lang="ts"></script>
 <template>
 <client-only>
-<!-- <NavBar /> -->
+<NavBar />
 <div id="gjMain" class="gj-main"></div>
 <!-- <Cookies /> -->
 <!-- <Copyright /> -->
