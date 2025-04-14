@@ -3,7 +3,7 @@
     <header class="gj-navbar">
     <nav class="gj-nav-left">
     <a href="/" class="gj-nav-home">
-    <img src="C:\Users\USER\projectguajava\public\payment-check.png" width=20 height=20 class="gj-nav-logo">
+    <img src="../public/payment-check.png" width=20 height=20 class="gj-nav-logo">
     <span>GuaJava</span>
     </a>
     </nav>
