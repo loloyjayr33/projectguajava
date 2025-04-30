@@ -19,7 +19,7 @@ useSeoMeta({
 });
 useHead({
   link: [
-    { rel: "icon", type: "image/png", href: "/logo.png" },
+    { rel: "icon", type: "image/png", href: "/favicon.ico" },
     { rel: "stylesheet", href: "/reset.css" },
     { rel: "stylesheet", href: "/custom.css" },
     { rel: "preconnect", href: "https://fonts.googleapis.com" },
